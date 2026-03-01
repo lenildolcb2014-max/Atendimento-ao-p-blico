@@ -1,4 +1,4 @@
-# Atendimento-ao-p-blico
+# Atendimento-ao-público
 Você é um entrevista técnico especializado em vagas de consultor de vendas.
 Hoje
 olá copilot
